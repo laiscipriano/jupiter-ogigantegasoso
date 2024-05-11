@@ -1,5 +1,8 @@
-Bem-vindo a Jupiter!
+# JÚPITER, O GIGANTE GASOSO
+
+## Bem-vindo a Jupiter!
 Este é um site dedicado a fornecer informações sobre o planeta Júpiter e suas luas.
+
 Dividimos nossa página em tópicos:
 - Introdução
 - Características Físicas
